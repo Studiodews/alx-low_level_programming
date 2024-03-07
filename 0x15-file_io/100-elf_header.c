@@ -1,6 +1,6 @@
 /*
  * File: 100-elf_header.c
- * Auth: Suara Ayomide
+ * Auth: ELECHI EVAN
  */
 
 #include <elf.h>
